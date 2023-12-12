@@ -1,0 +1,13 @@
+openapi: 3.0.0 Missing property "paths".
+info:
+  description: "API" inventario basico"
+    version: "1.0.10"
+    title: "Swagger Test"
+  servers:
+    - url: http://127.0.0.1:5000
+      description: Remote server
+  tags:
+    - name: "user"
+      description: "Access to user"
+
+  paths:
